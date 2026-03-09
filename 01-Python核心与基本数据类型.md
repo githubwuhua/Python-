@@ -28,9 +28,9 @@
 
 典型的编译型语言有：`C`、`C++`、`Go` 等。
 
-<img src="assets/03.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="03.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
-<img src="assets/04.jpg"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
+<img src="04.jpg"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
 
 ● **解释执行**
 
@@ -50,9 +50,9 @@
 
 `Python` 会将源代码编译为字节码（`.pyc` 文件），然后由 `Python` 解释器执行。
 
-<img src="assets/05.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
+<img src="05.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
 
-<img src="assets/06.png" style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
+<img src="06.png" style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;"/>
 
 ## 1.3 什么是解释器?
 
@@ -939,3 +939,4 @@ print(bool(3.14))
 print(bool(''))
 
 ```
+
