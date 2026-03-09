@@ -66,33 +66,33 @@
 
 ● `IronPython` -- 在微软的`.NET` 平台上运行的解释器，可以直接将`Python`代码编译成`.NET`字节码执行
 
-<img src="assets/07.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="07.png"  style="width:100%;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
 ## 1.4 下载`Python`解释器
 
 `Python`官网：https://www.python.org/
 
-<img src="assets/08.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="08.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
-<img src="assets/09.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="09.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
-<img src="assets/10.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="10.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
-<img src="assets/11.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="11.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
 ## 1.5 安装解释器
 
 ### 1.5.1 `windows`
 
-<img src="assets/12.png"  style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="12.png"  style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
-<img src="assets/13.png"  style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="13.png"  style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
-<img src="assets/14.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="14.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
-<img src="assets/15.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
+<img src="15.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;"  />
 
-<img src="assets/16.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="16.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
 ### 1.5.2 `Linux`
 
@@ -120,7 +120,7 @@ $ make && make install
 
 第一步：启动`Windows`命令行(`Win+R`，然后输入 `python`)
 
-<img src="assets/17.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="17.png" style="padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
 第二步：输入以下代码：
 
@@ -189,7 +189,7 @@ $ python3 hello.py
 
 `PyCharm`是一款`Python`开发工具，集成了`Python`解释器，支持`MacOS`、`Windows`及`Linux`系统。
 
-<img src="assets/18.png" style="width:400px;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
+<img src="18.png" style="width:400px;padding:5px;border:1px dotted #ccc;border-radius:5px;" />
 
 
 
@@ -939,4 +939,5 @@ print(bool(3.14))
 print(bool(''))
 
 ```
+
 
